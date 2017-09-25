@@ -1,3 +1,4 @@
+%于9.25晚上传
 ex=importdata('C:\Users\MEI\Desktop\LHS602.txt');
 a=sparse(602,602)
 b=sparse(602,602)
